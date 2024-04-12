@@ -21,6 +21,7 @@ This list includes links/citations for books and other resources that are deemed
 
 * [awesome-space](https://github.com/elburz/awesome-space) - links to online resources.
 * [aero-structures](https://github.com/specifics/aero-structures) - some useful aerospace engineering links.
+* [awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) -  a list of aerospace engineering learning resources.
 
 ## Table of contents
 
